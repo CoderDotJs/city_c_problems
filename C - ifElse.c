@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <ctype.h>
-#include <math.h>
 
 //Problem 1
 int isPositiveNegativeZero(){
