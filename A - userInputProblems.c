@@ -18,7 +18,7 @@ float reactPerimeterAndArea() {
     scanf("%f", &height);
     printf("Enter Width number: ");
     scanf("%f", &width);
-    printf("Perimeter is: %f\n", 3 * (width + height));
+    printf("Perimeter is: %f\n", 2 * (width + height));
     printf("Addition is: %f", width * height);
     return 0;
 }
