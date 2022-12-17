@@ -26,7 +26,7 @@ float reactPerimeterAndArea() {
 //Practice 3
 float cirleFunc() {
     float radius;
-    float PI = 3.142857;
+    float PI = 3.14159;
     printf("Enter Cirlec Radius: ");
     scanf("%f", &radius);
     printf("Diameter is: %f\n", 2 * radius);
